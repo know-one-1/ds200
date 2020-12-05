@@ -28,9 +28,9 @@ We can see the number of people killed, injured and total number of accidents ha
 
 ### Refrences
 
-1. [Energy](Energy)
-2. [Farmer](Farmer)
-3. [Road](Road) 
+1. [https://data.gov.in/resources/primary-energy-consumption-in-select-countries-of-the-world-from-2012-](Energy)
+2. [https://data.gov.in/resources/farmers-queries-kisan-call-centre-kcc-goa-north-district-goa-month-january-2020](Farmer)
+3. [https://data.gov.in/resources/road-accidents-persons-killed-and-injured-1970-2017](Road) 
 
 
 [Energy]: https://data.gov.in/resources/primary-energy-consumption-in-select-countries-of-the-world-from-2012-
