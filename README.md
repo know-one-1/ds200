@@ -1,4 +1,4 @@
-# plot-script
+# Data Visualization
 
 ### Pie-chart 
 <img src="images/bar_plot.png"/>
