@@ -39,6 +39,6 @@ We can observe from the scatter that the number of people killed, injured and to
 3. [https://data.gov.in/resources/road-accidents-persons-killed-and-injured-1970-2017](Road) 
 
 
-[Energy]: https://data.gov.in/resources/primary-energy-consumption-in-select-countries-of-the-world-from-2012-
-[Farmer]: https://data.gov.in/resources/farmers-queries-kisan-call-centre-kcc-goa-north-district-goa-month-january-2020
-[Road]: https://data.gov.in/resources/road-accidents-persons-killed-and-injured-1970-2017
+[Energy]:https://data.gov.in/resources/primary-energy-consumption-in-select-countries-of-the-world-from-2012-
+[Farmer]:https://data.gov.in/resources/farmers-queries-kisan-call-centre-kcc-goa-north-district-goa-month-january-2020
+[Road]:https://data.gov.in/resources/road-accidents-persons-killed-and-injured-1970-2017
